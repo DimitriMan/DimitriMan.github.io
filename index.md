@@ -23,7 +23,8 @@ management, and investment strategies.
 
 # Projects
 
-- **[Post shock forecasting of seasonal time series]** — A short description of what you built, your role, technologies used, and outcome.  
+- **[Post shock forecasting of seasonal time series]** (ongoing)
+  A short description of what you built, your role, technologies used, and outcome.  
 - **[Morgan Stanley Buffered PLUS contracts valuation]** — Description etc.  
 - **[Analyzing the Small Business Administration (SBA) loan dataset]** — etc.
 - - **[Analyzing the Small Business Administration (SBA) loan dataset]** — etc.  
