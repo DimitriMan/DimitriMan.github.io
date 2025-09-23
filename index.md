@@ -27,13 +27,12 @@ Proposed a framework for post-shock forecasting in sales/revenue data; applied S
 </div>
 
   
-**Morgan Stanley Buffered PLUS contracts valuation** (Spring 2023)
+**Morgan Stanley Buffered PLUS contracts valuation** (Spring 2025)
 <div style="margin-left:2em; margin-top:0; margin-bottom:0;"> Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures prices, and zero-coupon bonds; implemented European option pricing and implied volatility estimation using the Black–Scholes framework; evaluated hedging strategies using delta and gamma (Greeks) </div>
   
 **Analyzing the Small Business Administration (SBA) loan dataset**
-<div style="margin-left: 2em;">
-Analyzed the SBA loan dataset to model loan approval and default probabilities; applied generalized linear models, Poisson regression, and logistic regression; performed model selection using information criteria, conducted diagnostics, and generated predictive insights.
-</div>
+<span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
+Analyzed the SBA loan dataset to model loan approval and default probabilities; applied generalized linear models, Poisson regression, and logistic regression; performed model selection using information criteria, conducted diagnostics, and generated predictive insights.</span>
   
 **Unsupervised Learning: Matrix completion**
 <div style="margin-left: 2em;">
