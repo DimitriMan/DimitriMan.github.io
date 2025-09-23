@@ -22,36 +22,36 @@ Aristotle University of Thessaloniki
 # Projects
 
 **Post shock forecasting of seasonal time series** (ongoing)<br>
-<p style="text-indent: 4em;">
+<div style="margin-left: 4em;">
 Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept correction to improve sales and revenue forecasts.
-</p>
+</div>
   
 **Morgan Stanley Buffered PLUS contracts valuation** (Spring 2023)<br>
-<p style="text-indent: 4em;">
+<div style="margin-left: 4em;">
 Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures prices, and zero-coupon bonds; implemented European option pricing and implied volatility estimation using the Black–Scholes framework; evaluated hedging strategies using delta and gamma (Greeks)
-</p>
+</div>
   
 **Analyzing the Small Business Administration (SBA) loan dataset**<br>
-<p style="text-indent: 4em;">
+<div style="margin-left: 4em;">
 Analyzed the SBA loan dataset to model loan approval and default probabilities; applied generalized linear models, Poisson regression, and logistic regression; performed model selection using information criteria, conducted diagnostics, and generated predictive insights.
-</p>
+</div>
   
 **Unsupervised Learning: Matrix completion**<br>
-<p style="text-indent: 4em;">
+<div style="margin-left: 4em;">
 Keywords: comparison of several models, including KNN, user-based collaborative filtering, item-based collaborative filtering, SVD, and KNN+SVD, to impute missing values in a rating matrix. 
-</p>
+</div>
 
 # Teaching Experience
 
 **Lead Teaching Assitant**,  Department of Statistics, Fall 2025<br>
-<p style="text-indent: 4em;">
+<div style="margin-left: 4em;">
 Lead teaching assistant for STAT 400, wrote hw problems, discussion problems, discussion notes for the rest teaching assistants, lead discussion and office hours  
-</p>
+</div>
 
 **Teaching Assistant**, Department of Statistics, Fall 2022 - Spring 2025<br>
-<p style="text-indent: 4em;">
+<div style="margin-left: 4em;">
 Led discussion sessions, held office hours, graded homework, and proctored exams for STAT 400 (Statistics and Probability I), STAT 385 (Statistics Programming Methods), and STAT 425 (Statistical Modeling I).
-</p>
+</div>
 
 # Skills
 
