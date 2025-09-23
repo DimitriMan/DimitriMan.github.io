@@ -22,32 +22,36 @@ Aristotle University of Thessaloniki
 # Projects
 
 **Post shock forecasting of seasonal time series** (ongoing)<br>
-&nbsp;&nbsp;Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal
-&nbsp;&nbsp;ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept
-&nbsp;&nbsp;correction to improve sales and revenue forecasts.
+<p style="text-indent: 2em;">
+Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept correction to improve sales and revenue forecasts.
+</p>
   
 **Morgan Stanley Buffered PLUS contracts valuation** (Spring 2023)<br>
-&nbsp;&nbsp;Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures
-&nbsp;&nbsp;prices, and zero-coupon bonds; implemented European option pricing and implied volatility
-&nbsp;&nbsp;estimation using the Black–Scholes framework; evaluated hedging strategies using delta and
-&nbsp;&nbsp;gamma (Greeks)
+<p style="text-indent: 2em;">
+Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures prices, and zero-coupon bonds; implemented European option pricing and implied volatility estimation using the Black–Scholes framework; evaluated hedging strategies using delta and gamma (Greeks)
+</p>
   
 **Analyzing the Small Business Administration (SBA) loan dataset**<br>
-&nbsp;&nbsp;Analyzed the SBA loan dataset to model loan approval and default probabilities; applied
-&nbsp;&nbsp;generalized linear models, Poisson regression, and logistic regression; performed model
-&nbsp;&nbsp;selection using information criteria, conducted diagnostics, and generated predictive insights.
+<p style="text-indent: 2em;">
+Analyzed the SBA loan dataset to model loan approval and default probabilities; applied generalized linear models, Poisson regression, and logistic regression; performed model selection using information criteria, conducted diagnostics, and generated predictive insights.
+</p>
   
 **Unsupervised Learning: Matrix completion**<br>
-&nbsp;&nbsp;Keywords: comparison of several models, including KNN, user-based collaborative filtering, item-based collaborative &nbsp;&nbsp;filtering, SVD, and KNN+SVD, to impute missing values in a rating matrix. 
+<p style="text-indent: 2em;">
+Keywords: comparison of several models, including KNN, user-based collaborative filtering, item-based collaborative filtering, SVD, and KNN+SVD, to impute missing values in a rating matrix. 
+</p>
 
 # Teaching Experience
 
 **Lead Teaching Assitant**,  Department of Statistics, Fall 2025<br>
-&nbsp;&nbsp;Lead teaching assistant for STAT 400, wrote hw problems, discussion problems, discussion notes for the rest teaching &nbsp;&nbsp;assistants, lead discussion and office hours  
+<p style="text-indent: 2em;">
+Lead teaching assistant for STAT 400, wrote hw problems, discussion problems, discussion notes for the rest teaching assistants, lead discussion and office hours  
+</p>
+
 **Teaching Assistant**, Department of Statistics, Fall 2022 - Spring 2025<br>
-&nbsp;&nbsp;Led discussion sessions, held office hours, graded homework, and proctored exams
-&nbsp;&nbsp;for STAT 400 (Statistics and Probability I), STAT 385 (Statistics Programming
-&nbsp;&nbsp;Methods), and STAT 425 (Statistical Modeling I).
+<p style="text-indent: 2em;">
+Led discussion sessions, held office hours, graded homework, and proctored exams for STAT 400 (Statistics and Probability I), STAT 385 (Statistics Programming Methods), and STAT 425 (Statistical Modeling I).
+</p>
 
 # Skills
 
