@@ -11,16 +11,16 @@ management, and investment strategies.
 # Education
 
 **Ph.D.**, in Statistics &nbsp;&nbsp;&nbsp; *2022 – 2027*<br>
-University of Illinois at Urbana-Champaign
+University of Illinois at Urbana-Champaign, United States
 
 **M.S.**, in Statistics &nbsp;&nbsp;&nbsp; *2020 – 2022*<br>
-Aristotle University of Thessaloniki
+Aristotle University of Thessaloniki, Greece
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 Thesis: *“Functional Delta Method and its Application”*
 </span>
 
 **B.S.**, in Mathematics &nbsp;&nbsp;&nbsp; *2016 – 2020*<br>
-Aristotle University of Thessaloniki
+Aristotle University of Thessaloniki, Greece
 
 # Projects
 
