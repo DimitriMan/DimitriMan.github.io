@@ -1,5 +1,5 @@
 ---
-title: "Dimitrios Mandravelis"
+title: ""
 ---
 
 # Brief Summary
@@ -8,12 +8,14 @@ I am [Your Name], a [your role, e.g. PhD Candidate / Researcher / Data Scientist
 
 # Education
 
-- **Ph.D.**, in Statistics *2022 – 2027*  
-  University of Illinois at Urbana-Champaing  
-- **M.S.**, in Statistics *2020 – 2022*
-  Aristotle University of Thessaloniki
-- **B.S.**, in Mathematics  *2016 – 2020*  
-  Aristotle University of Thessaloniki
+**Ph.D.**, in Statistics *2022 – 2027*  
+University of Illinois at Urbana-Champaing 
+
+**M.S.**, in Statistics *2020 – 2022*
+Aristotle University of Thessaloniki
+
+**B.S.**, in Mathematics  *2016 – 2020*  
+Aristotle University of Thessaloniki
   
 # Research Interest
 
@@ -23,20 +25,20 @@ management, and investment strategies.
 
 # Projects
 
-- **[Post shock forecasting of seasonal time series]** (ongoing)
+**[Post shock forecasting of seasonal time series]** (ongoing)
   Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal
   ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept
   correction to improve sales and revenue forecasts.  
-- **[Morgan Stanley Buffered PLUS contracts valuation]** (Spring 2023)
+**[Morgan Stanley Buffered PLUS contracts valuation]** (Spring 2023)
   Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures
   prices, and zero-coupon bonds; implemented European option pricing and implied volatility
   estimation using the Black–Scholes framework; evaluated hedging strategies using delta and
   gamma (Greeks)
-- **[Analyzing the Small Business Administration (SBA) loan dataset]**
+**[Analyzing the Small Business Administration (SBA) loan dataset]**
   Analyzed the SBA loan dataset to model loan approval and default probabilities; applied
   generalized linear models, Poisson regression, and logistic regression; performed model
   selection using information criteria, conducted diagnostics, and generated predictive insights.
-- - **[Analyzing the Small Business Administration (SBA) loan dataset]** — etc.  
+**[Analyzing the Small Business Administration (SBA) loan dataset]** — etc.  
 
 # Teaching Experience
 
