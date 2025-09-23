@@ -56,7 +56,7 @@ Applied and compared several models—including KNN, user-based and item-based c
 
 **Lead Teaching Assistant**, Department of Statistics, Fall 2025
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
-Prepared homework and discussion problems with solutions, created discussion notes for fellow teaching assistants, and led discussion sections and office hours for STAT 400.
+Prepared homework and discussion problems with solutions, created discussion notes for fellow teaching assistants, and led discussion sections and office hours for STAT 400 (Statistics and Probability I).
 </span>
 
 **Teaching Assistant**, Department of Statistics, Fall 2022 - Spring 2025
