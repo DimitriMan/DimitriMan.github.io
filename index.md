@@ -10,13 +10,13 @@ management, and investment strategies.
 
 # Education
 
-**Ph.D.**, in Statistics *2022 – 2027*<br>
+**Ph.D.**, in Statistics    *2022 – 2027*<br>
 University of Illinois at Urbana-Champaing 
 
-**M.S.**, in Statistics *2020 – 2022*<br>
+**M.S.**, in Statistics     *2020 – 2022*<br>
 Aristotle University of Thessaloniki
 
-**B.S.**, in Mathematics  *2016 – 2020*<br>
+**B.S.**, in Mathematics    *2016 – 2020*<br>
 Aristotle University of Thessaloniki
 
 # Projects
@@ -26,7 +26,7 @@ Aristotle University of Thessaloniki
 Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept correction to improve sales and revenue forecasts.
 </span>
 
-**Morgan Stanley Buffered PLUS contracts valuation** (Spring 2025)
+**Morgan Stanley Buffered PLUS contracts valuation**
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures prices, and zero-coupon bonds; implemented European option pricing and implied volatility estimation using the Black–Scholes framework; evaluated hedging strategies using delta and gamma (Greeks) 
 </span>
@@ -42,7 +42,7 @@ Applied and compared several models—including KNN, user-based and item-based c
 
 # Teaching Experience
 
-**Lead Teaching Assitant**,  Department of Statistics, Fall 2025
+**Lead Teaching Assitant**, Department of Statistics, Fall 2025
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 Prepared homework and discussion problems with solutions, created discussion notes for fellow teaching assistants, and led discussion sections and office hours for STAT 400.
 </span>
@@ -54,6 +54,6 @@ Led discussion sessions, held office hours, graded homework and exams for STAT 4
 
 # Skills
 
-- **Programming / Tools:** R, Git  
-- **Methods / Techniques:** Machine Learning, Classification, Data Visualization, Model fitting, Data Analysis, Time Series Analysis, Forecasting Generalized Linear Models, Options Pricing  
-- **Other Skills:** Communication, Team Leadership, Project Management, Organization
+**Programming / Tools:** R, Git  
+**Methods / Techniques:** Machine Learning, Classification, Data Visualization, Model fitting, Data Analysis, Time Series Analysis, Forecasting Generalized Linear Models, Options Pricing  
+**Other Skills:** Communication, Team Leadership, Project Management, Organization
