@@ -4,26 +4,26 @@ title: "Cv"
 
 # Research Interests
 <hr style="margin-top:-1em; margin-bottom:1em;">
-I am interested in data analysis, predictive modeling, and quantitative research, with a focus on
+I am interested in predictive modeling, and quantitative research, with a focus on
 time series forecasting, statistical modeling, and their applications in financial markets, risk
-management, and investment strategies.
+management and investment strategies.
 
 # Education
 <hr style="margin-top:-1em; margin-bottom:1em;">
-**Ph.D.**, in Statistics &nbsp;&nbsp;&nbsp; *2022 – 2027*<br>
+**Ph.D.** in Statistics &nbsp;&nbsp;&nbsp; *2022 – 2027*<br>
 University of Illinois at Urbana-Champaign, USA
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 GPA: 3.69/4.00
 </span>
 
-**M.S.**, in Statistics &nbsp;&nbsp;&nbsp; *2020 – 2022*<br>
+**M.S.** in Statistics &nbsp;&nbsp;&nbsp; *2020 – 2022*<br>
 Aristotle University of Thessaloniki, Greece
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 GPA: 9.55/10.00<br>
 Thesis: *“Functional Delta Method and its Application”*
 </span>
 
-**B.S.**, in Mathematics &nbsp;&nbsp;&nbsp; *2016 – 2020*<br>
+**B.S.** in Mathematics &nbsp;&nbsp;&nbsp; *2016 – 2020*<br>
 Aristotle University of Thessaloniki, Greece
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 GPA: 8.06/10.00
@@ -69,4 +69,4 @@ Led discussion sessions, held office hours, graded homework and exams for STAT 4
 
 **Programming / Tools:** R, Markdown, Git, LaTeX, Excel<br>
 **Methods / Techniques:** Statistical Modeling and Generalized Linear Models, Machine Learning and Classification, Data Analysis and Visualization, Time Series Analysis and Forecasting, Financial Modeling / Options Pricing<br>
-**Other Skills:** Communication, Team Leadership, Collaboration, Problem-Solving, Organization and Time Management, Project Coordination
+**Other Skills:** Communication, Team Leadership, Collaboration, Creativity, Problem-Solving, Organization and Time Management, Project Coordination
