@@ -15,7 +15,7 @@ Analyzed the SBA loan dataset to model loan approval and default probabilities; 
 [View report and code](https://github.com/DimitriMan/academic-projects)
 
 **Unsupervised Learning: Matrix completion**<br>
-Applied and compared several models—including KNN, user-based and item-based collaborative filtering, SVD, and KNN+SVD—to impute missing values in a rating matrix; evaluated model performance and generated insights on prediction accuracy.<br>
+Applied and compared several models, including KNN, user-based and item-based collaborative filtering, SVD, and KNN+SVD, to impute missing values in a rating matrix; evaluated model performance and generated insights on prediction accuracy.<br>
 [View report and code](https://github.com/DimitriMan/academic-projects)
 
 **Comparing the performance of basketball players across eras**<br>
