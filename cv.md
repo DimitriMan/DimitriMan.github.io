@@ -13,7 +13,7 @@ management, and investment strategies.
 **Ph.D.**, in Statistics &nbsp;&nbsp;&nbsp; *2022 – 2027*<br>
 University of Illinois at Urbana-Champaign, USA
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
-GPA: 3.67/4.00
+GPA: 3.69/4.00
 </span>
 
 **M.S.**, in Statistics &nbsp;&nbsp;&nbsp; *2020 – 2022*<br>
