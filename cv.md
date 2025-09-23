@@ -25,7 +25,7 @@ Thesis: *“Functional Delta Method and its Application”*
 Aristotle University of Thessaloniki, Greece
 
 # Projects
-
+<hr style="margin-top:0.5em; margin-bottom:1em;">
 **Post shock forecasting of seasonal time series** (ongoing)
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept correction to improve sales and revenue forecasts.
@@ -46,6 +46,7 @@ Applied and compared several models—including KNN, user-based and item-based c
 </span>
 
 # Teaching Experience
+---
 
 **Lead Teaching Assistant**, Department of Statistics, Fall 2025
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
@@ -58,6 +59,7 @@ Led discussion sessions, held office hours, graded homework and exams for STAT 4
 </span>
 
 # Skills
+---
 
 **Programming / Tools:** R, Markdown, Git, LaTeX, Excel<br>
 **Methods / Techniques:** Statistical Modeling and Generalized Linear Models, Machine Learning and Classification, Data Analysis and Visualization, Time Series Analysis and Forecasting, Financial Modeling / Options Pricing<br>
