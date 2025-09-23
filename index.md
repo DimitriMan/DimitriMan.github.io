@@ -22,7 +22,9 @@ Aristotle University of Thessaloniki
 # Projects
 
 **Post shock forecasting of seasonal time series** (ongoing)
-<div style="margin-left:2em; margin-top:0; margin-bottom:0;"> Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept correction to improve sales and revenue forecasts.</div>
+<div style="margin-left:2em; margin-top:0; margin-bottom:0;"> 
+Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept correction to improve sales and revenue forecasts.
+</div>
 
   
 **Morgan Stanley Buffered PLUS contracts valuation** (Spring 2023)
