@@ -1,5 +1,5 @@
 ---
-title: "My CV"
+title: "Dimitrios Mandravelis"
 ---
 
 # Brief Summary
@@ -8,22 +8,25 @@ I am [Your Name], a [your role, e.g. PhD Candidate / Researcher / Data Scientist
 
 # Education
 
-- **[Degree]**, [Major / Field] — [University Name], [City]  
-  *[Start Year] – [Graduation Year]*  
-- **[Another Degree (if applicable)]**, [Field] — [University Name], [City]  
-  *[Start Year] – [Graduation Year]*  
+- **Ph.D.**, [Statistics] — [University of Illinois], [Urbana-Champaing]  
+  *[2022] – [2027]*  
+- **[M.S.]**, [Statistics] — [Aristotle University of Thessaloniki], [Thessaloniki]  
+  *[2020] – [2022]*
+- **[B.S.]**, [Mathematics] — [Aristotle University of Thessaloniki], [Thessaloniki]  
+  *[2016] – [2020]*  
 
 # Research Interest
 
-- [First research topic]  
-- [Second research topic]  
-- [Third research topic]  
+I am interested in data analysis, predictive modeling, and quantitative research, with a focus on
+time series forecasting, statistical modeling, and their applications in financial markets, risk
+management, and investment strategies.
 
 # Projects
 
-- **[Project Name 1]** — A short description of what you built, your role, technologies used, and outcome.  
-- **[Project Name 2]** — Description etc.  
-- **[Project Name 3]** — etc.  
+- **[Post shock forecasting of seasonal time series]** — A short description of what you built, your role, technologies used, and outcome.  
+- **[Morgan Stanley Buffered PLUS contracts valuation]** — Description etc.  
+- **[Analyzing the Small Business Administration (SBA) loan dataset]** — etc.
+- - **[Analyzing the Small Business Administration (SBA) loan dataset]** — etc.  
 
 # Teaching Experience
 
