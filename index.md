@@ -10,36 +10,39 @@ management, and investment strategies.
 
 # Education
 
-**Ph.D.**, in Statistics *2022 – 2027*  
+**Ph.D.**, in Statistics *2022 – 2027*<br>
 University of Illinois at Urbana-Champaing 
 
-**M.S.**, in Statistics *2020 – 2022*
+**M.S.**, in Statistics *2020 – 2022*<br>
 Aristotle University of Thessaloniki
 
-**B.S.**, in Mathematics  *2016 – 2020*  
+**B.S.**, in Mathematics  *2016 – 2020*<br>
 Aristotle University of Thessaloniki
 
 # Projects
 
-**[Post shock forecasting of seasonal time series]** (ongoing)
+**Post shock forecasting of seasonal time series** (ongoing)<br>
   Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal
   ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept
-  correction to improve sales and revenue forecasts.  
-**[Morgan Stanley Buffered PLUS contracts valuation]** (Spring 2023)
+  correction to improve sales and revenue forecasts.
+  
+**Morgan Stanley Buffered PLUS contracts valuation** (Spring 2023)<br>
   Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures
   prices, and zero-coupon bonds; implemented European option pricing and implied volatility
   estimation using the Black–Scholes framework; evaluated hedging strategies using delta and
   gamma (Greeks)
-**[Analyzing the Small Business Administration (SBA) loan dataset]**
+  
+**Analyzing the Small Business Administration (SBA) loan dataset**<br>
   Analyzed the SBA loan dataset to model loan approval and default probabilities; applied
   generalized linear models, Poisson regression, and logistic regression; performed model
   selection using information criteria, conducted diagnostics, and generated predictive insights.
-**[Unsupervised Learning: Matrix completion]**
+  
+**Unsupervised Learning: Matrix completion**
   Keywords: comparison of several models, including KNN, user-based collaborative filtering, item-based collaborative filtering, SVD,      and KNN+SVD, to impute missing values in a rating matrix. 
 
 # Teaching Experience
 
-- **[Lead teaching assitant]**,  Department of Statistics, Fall 2025
+- **Lead Teaching Assitant**,  Department of Statistics, Fall 2025
   Lead teaching assistant for STAT 400, wrote hw problems, discussion problems, discussion notes for the rest teaching assistants, lead    discussion and   office hours  
 - **Teaching Assistant**, Department of Statistics, Fall 2022 - Spring 2025
   Led discussion sessions, held office hours, graded homework, and proctored exams
@@ -48,6 +51,6 @@ Aristotle University of Thessaloniki
 
 # Skills
 
-- **Programming / Tools:** [list, e.g. R, Git]  
-- **Methods / Techniques:** [e.g. Machine Learning, Classification, Data Visualization, Model fitting, Data Analysis, Time series Analysis, Forecasting Generalized Linear Models, Options Pricing]  
-- **Other Skills:** [Communication, Team Leadership, Project Management]  
+- **Programming / Tools:** R, Git  
+- **Methods / Techniques:** Machine Learning, Classification, Data Visualization, Model fitting, Data Analysis, Time series Analysis, Forecasting Generalized Linear Models, Options Pricing  
+- **Other Skills:** Communication, Team Leadership, Project Management 
