@@ -26,9 +26,7 @@ Aristotle University of Thessaloniki
 
   
 **Morgan Stanley Buffered PLUS contracts valuation** (Spring 2023)
-<div style="margin-left: 2em;">
-Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures prices, and zero-coupon bonds; implemented European option pricing and implied volatility estimation using the Black–Scholes framework; evaluated hedging strategies using delta and gamma (Greeks)
-</div>
+<div style="margin-left:2em; margin-top:0; margin-bottom:0;"> Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures prices, and zero-coupon bonds; implemented European option pricing and implied volatility estimation using the Black–Scholes framework; evaluated hedging strategies using delta and gamma (Greeks) </div>
   
 **Analyzing the Small Business Administration (SBA) loan dataset**
 <div style="margin-left: 2em;">
