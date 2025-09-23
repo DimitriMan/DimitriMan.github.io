@@ -1,4 +1,6 @@
-# About Me
+---
+title: "About Me"
+---
 
 Hi, I’m Dimitrios Mandravelis, a PhD candidate in Statistics at the University of Illinois at Urbana–Champaign. My primary research focuses on time series analysis and forecasting, with broader interests in predictive modeling and quantitative research. In particular, I explore applications of statistical modeling and time series forecasting in financial markets, risk management, and investment strategies. 
 
