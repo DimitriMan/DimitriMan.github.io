@@ -8,13 +8,13 @@ I am [Your Name], a [your role, e.g. PhD Candidate / Researcher / Data Scientist
 
 # Education
 
-- **Ph.D.**, [Statistics] — [University of Illinois], [Urbana-Champaing]  
-  *[2022] – [2027]*  
-- **[M.S.]**, [Statistics] — [Aristotle University of Thessaloniki], [Thessaloniki]  
-  *[2020] – [2022]*
-- **[B.S.]**, [Mathematics] — [Aristotle University of Thessaloniki], [Thessaloniki]  
-  *[2016] – [2020]*  
-
+- **Ph.D.**, in Statistics *[2022] – [2027]*  
+  University of Illinois at Urbana-Champaing  
+- **M.S.**, in Statistics *[2020] – [2022]*
+  Aristotle University of Thessaloniki
+- **B.S.**, in Mathematics  *[2016] – [2020]*  
+  Aristotle University of Thessaloniki
+  
 # Research Interest
 
 I am interested in data analysis, predictive modeling, and quantitative research, with a focus on
