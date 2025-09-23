@@ -2,9 +2,11 @@
 title: ""
 ---
 
-# Brief Summary
+# Research Interest
 
-I am [Your Name], a [your role, e.g. PhD Candidate / Researcher / Data Scientist] with experience in [fields / domains]. I specialize in [key skills or focus], and I am passionate about [what motivates you professionally].
+I am interested in data analysis, predictive modeling, and quantitative research, with a focus on
+time series forecasting, statistical modeling, and their applications in financial markets, risk
+management, and investment strategies.
 
 # Education
 
@@ -16,12 +18,6 @@ Aristotle University of Thessaloniki
 
 **B.S.**, in Mathematics  *2016 – 2020*  
 Aristotle University of Thessaloniki
-  
-# Research Interest
-
-I am interested in data analysis, predictive modeling, and quantitative research, with a focus on
-time series forecasting, statistical modeling, and their applications in financial markets, risk
-management, and investment strategies.
 
 # Projects
 
