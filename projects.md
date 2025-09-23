@@ -4,7 +4,7 @@ title: Projects
 
 **Post shock forecasting of seasonal time series** (ongoing)<br>
 Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept correction to improve sales and revenue forecasts.<br>
-[View report and code](https://github.com/DimitriMan/academic-projects)
+[Not yet published]()
 
 **Morgan Stanley Buffered PLUS contracts valuation**<br>
 Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures prices, and zero-coupon bonds; implemented European option pricing and implied volatility estimation using the Black–Scholes framework; evaluated hedging strategies using delta and gamma (Greeks)<br>
