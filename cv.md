@@ -3,24 +3,31 @@ title: "Cv"
 ---
 
 # Research Interests
-<hr style="margin-top:0.05em; margin-bottom:1em;">
+<hr style="margin-top:-1em; margin-bottom:1em;">
 I am interested in data analysis, predictive modeling, and quantitative research, with a focus on
 time series forecasting, statistical modeling, and their applications in financial markets, risk
 management, and investment strategies.
 
 # Education
-<hr style="margin-top:0.1em; margin-bottom:1em;"><br>
+<hr style="margin-top:0.1em; margin-bottom:1em;">
 **Ph.D.**, in Statistics &nbsp;&nbsp;&nbsp; *2022 – 2027*<br>
-University of Illinois at Urbana-Champaign, United States
+University of Illinois at Urbana-Champaign, USA
+<span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
+GPA: 3.67/4.00
+</span>
 
 **M.S.**, in Statistics &nbsp;&nbsp;&nbsp; *2020 – 2022*<br>
 Aristotle University of Thessaloniki, Greece
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
+GPA: 9.45/10.00
 Thesis: *“Functional Delta Method and its Application”*
 </span>
 
 **B.S.**, in Mathematics &nbsp;&nbsp;&nbsp; *2016 – 2020*<br>
 Aristotle University of Thessaloniki, Greece
+<span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
+GPA: 8.06/10.00
+</span>
 
 # Projects
 <hr style="margin-top:0.2em; margin-bottom:1em;">
