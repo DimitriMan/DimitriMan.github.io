@@ -2,7 +2,7 @@
 title: ""
 ---
 
-# Research Interest
+# Research Interests
 
 I am interested in data analysis, predictive modeling, and quantitative research, with a focus on
 time series forecasting, statistical modeling, and their applications in financial markets, risk
@@ -42,7 +42,7 @@ Applied and compared several models—including KNN, user-based and item-based c
 
 # Teaching Experience
 
-**Lead Teaching Assitant**, Department of Statistics, Fall 2025
+**Lead Teaching Assistant**, Department of Statistics, Fall 2025
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 Prepared homework and discussion problems with solutions, created discussion notes for fellow teaching assistants, and led discussion sections and office hours for STAT 400.
 </span>
