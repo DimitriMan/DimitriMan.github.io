@@ -26,6 +26,7 @@ Aristotle University of Thessaloniki, Greece
 
 # Projects
 <hr style="margin-top:0.5em; margin-bottom:1em;">
+
 **Post shock forecasting of seasonal time series** (ongoing)
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept correction to improve sales and revenue forecasts.
