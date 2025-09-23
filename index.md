@@ -38,7 +38,8 @@ management, and investment strategies.
   Analyzed the SBA loan dataset to model loan approval and default probabilities; applied
   generalized linear models, Poisson regression, and logistic regression; performed model
   selection using information criteria, conducted diagnostics, and generated predictive insights.
-**[Analyzing the Small Business Administration (SBA) loan dataset]** — etc.  
+**[Unsupervised Learning: Matrix completion]**
+  Keywords: comparison of several models, including KNN, user-based collaborative filtering, item-based collaborative filtering, SVD,      and KNN+SVD, to impute missing values in a rating matrix. 
 
 # Teaching Experience
 
