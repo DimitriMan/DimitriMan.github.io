@@ -3,6 +3,6 @@ description: "Academic CV and Projects"
 theme: minima
 nav:
   - title: "About"
-    url: "/"
+    url: "/index"
   - title: "CV"
     url: "/cv"
