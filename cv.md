@@ -3,12 +3,14 @@ title: "Cv"
 ---
 
 # Research Interests
+---
 
 I am interested in data analysis, predictive modeling, and quantitative research, with a focus on
 time series forecasting, statistical modeling, and their applications in financial markets, risk
 management, and investment strategies.
 
 # Education
+---
 
 **Ph.D.**, in Statistics &nbsp;&nbsp;&nbsp; *2022 – 2027*<br>
 University of Illinois at Urbana-Champaign, United States
