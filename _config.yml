@@ -3,6 +3,6 @@ description: ""
 theme: minima
 nav:
   - title: "About"
-    url: "/index"
+    url: "/"
   - title: "CV"
     url: "/cv"
