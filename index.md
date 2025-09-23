@@ -21,35 +21,39 @@ Aristotle University of Thessaloniki
 
 # Projects
 
-**Post shock forecasting of seasonal time series** (ongoing)<br>
+**Post shock forecasting of seasonal time series** (ongoing)
+<span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept correction to improve sales and revenue forecasts.
+</span>
 
 **Morgan Stanley Buffered PLUS contracts valuation** (Spring 2025)
-<div style="margin-left:2em; margin-top:0; margin-bottom:0;"> Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures prices, and zero-coupon bonds; implemented European option pricing and implied volatility estimation using the Black–Scholes framework; evaluated hedging strategies using delta and gamma (Greeks) </div>
+<span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
+Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures prices, and zero-coupon bonds; implemented European option pricing and implied volatility estimation using the Black–Scholes framework; evaluated hedging strategies using delta and gamma (Greeks) 
+</span>
   
 **Analyzing the Small Business Administration (SBA) loan dataset**
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
 Analyzed the SBA loan dataset to model loan approval and default probabilities; applied generalized linear models, Poisson regression, and logistic regression; performed model selection using information criteria, conducted diagnostics, and generated predictive insights.</span>
   
 **Unsupervised Learning: Matrix completion**
-<div style="margin-left: 2em;">
-Keywords: comparison of several models, including KNN, user-based collaborative filtering, item-based collaborative filtering, SVD, and KNN+SVD, to impute missing values in a rating matrix. 
-</div>
+<span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
+Applied and compared several models—including KNN, user-based and item-based collaborative filtering, SVD, and KNN+SVD—to impute missing values in a rating matrix; evaluated model performance and generated insights on prediction accuracy.
+</span>
 
 # Teaching Experience
 
 **Lead Teaching Assitant**,  Department of Statistics, Fall 2025
-<div style="margin-left: 2em;">
-Lead teaching assistant for STAT 400, wrote hw problems, discussion problems, discussion notes for the rest teaching assistants, lead discussion and office hours  
-</div>
+<span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
+Prepared homework and discussion problems with solutions, created discussion notes for fellow teaching assistants, and led discussion sections and office hours for STAT 400.
+</span>
 
 **Teaching Assistant**, Department of Statistics, Fall 2022 - Spring 2025
-<div style="margin-left: 2em;">
-Led discussion sessions, held office hours, graded homework, and proctored exams for STAT 400 (Statistics and Probability I), STAT 385 (Statistics Programming Methods), and STAT 425 (Statistical Modeling I).
-</div>
+<span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
+Led discussion sessions, held office hours, graded homework and exams for STAT 400 (Statistics and Probability I), STAT 385 (Statistics Programming Methods), and STAT 425 (Statistical Modeling I).
+</span>
 
 # Skills
 
 - **Programming / Tools:** R, Git  
-- **Methods / Techniques:** Machine Learning, Classification, Data Visualization, Model fitting, Data Analysis, Time series Analysis, Forecasting Generalized Linear Models, Options Pricing  
-- **Other Skills:** Communication, Team Leadership, Project Management 
+- **Methods / Techniques:** Machine Learning, Classification, Data Visualization, Model fitting, Data Analysis, Time Series Analysis, Forecasting Generalized Linear Models, Options Pricing  
+- **Other Skills:** Communication, Team Leadership, Project Management, Organization
