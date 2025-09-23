@@ -10,8 +10,15 @@ management, and investment strategies.
 
 # Education
 
+| Degree | Year |
+|--------|-----:|
+| **Ph.D.**, in Statistics | *2022 – 2027* |
+| University of Illinois at Urbana-Champaign |
+| **M.S.**, in Statistics | *2020 – 2022* |
+| Aristotle University of Thessaloniki |
+
 **Ph.D.**, in Statistics &nbsp;&nbsp;&nbsp; *2022 – 2027*<br>
-University of Illinois at Urbana-Champaing 
+University of Illinois at Urbana-Champaign
 
 **M.S.**, in Statistics &nbsp;&nbsp;&nbsp; *2020 – 2022*<br>
 Aristotle University of Thessaloniki
@@ -54,6 +61,6 @@ Led discussion sessions, held office hours, graded homework and exams for STAT 4
 
 # Skills
 
-**Programming / Tools:** R, Markdown, Git, LaTeX, Excel
-**Methods / Techniques:** Statistical Modeling and Generalized Linear Models, Machine Learning and Classification, Data Analysis and Visualization, Time Series Analysis and Forecasting, Financial Modeling / Options Pricing
+**Programming / Tools:** R, Markdown, Git, LaTeX, Excel<br>
+**Methods / Techniques:** Statistical Modeling and Generalized Linear Models, Machine Learning and Classification, Data Analysis and Visualization, Time Series Analysis and Forecasting, Financial Modeling / Options Pricing<br>
 **Other Skills:** Communication, Team Leadership, Collaboration, Problem-Solving, Organization and Time Management, Project Coordination
