@@ -15,6 +15,9 @@ University of Illinois at Urbana-Champaign
 
 **M.S.**, in Statistics &nbsp;&nbsp;&nbsp; *2020 – 2022*<br>
 Aristotle University of Thessaloniki
+<span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
+Thesis: *“Functional Delta Method and its Application”*
+</span>
 
 **B.S.**, in Mathematics &nbsp;&nbsp;&nbsp; *2016 – 2020*<br>
 Aristotle University of Thessaloniki
