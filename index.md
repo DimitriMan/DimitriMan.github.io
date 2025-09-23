@@ -10,10 +10,10 @@ management, and investment strategies.
 
 # Education
 
-**Ph.D.**, in Statistics &nbsp;&nbsp;&nbsp;&nbsp; *2022 – 2027*<br>
+**Ph.D.**, in Statistics &nbsp;&nbsp;&nbsp; *2022 – 2027*<br>
 University of Illinois at Urbana-Champaign
 
-**M.S.**, in Statistics &nbsp;&nbsp;&nbsp;&nbsp; *2020 – 2022*<br>
+**M.S.**, in Statistics &nbsp;&nbsp;&nbsp; *2020 – 2022*<br>
 Aristotle University of Thessaloniki
 
 **B.S.**, in Mathematics &nbsp;&nbsp;&nbsp; *2016 – 2020*<br>
