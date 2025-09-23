@@ -22,32 +22,32 @@ Aristotle University of Thessaloniki
 # Projects
 
 **Post shock forecasting of seasonal time series** (ongoing)<br>
-  &nbsp;Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal
-  ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept
-  correction to improve sales and revenue forecasts.
+&nbsp;&nbsp;Proposed a framework for post-shock forecasting in sales/revenue data; applied Seasonal
+&nbsp;&nbsp;ARIMA with exogenous variables; incorporated trajectory similarity measures and intercept
+&nbsp;&nbsp;correction to improve sales and revenue forecasts.
   
 **Morgan Stanley Buffered PLUS contracts valuation** (Spring 2023)<br>
-  &nbsp;Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures
-  prices, and zero-coupon bonds; implemented European option pricing and implied volatility
-  estimation using the Black–Scholes framework; evaluated hedging strategies using delta and
-  gamma (Greeks)
+&nbsp;&nbsp;Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures
+&nbsp;&nbsp;prices, and zero-coupon bonds; implemented European option pricing and implied volatility
+&nbsp;&nbsp;estimation using the Black–Scholes framework; evaluated hedging strategies using delta and
+&nbsp;&nbsp;gamma (Greeks)
   
 **Analyzing the Small Business Administration (SBA) loan dataset**<br>
-  &nbsp;Analyzed the SBA loan dataset to model loan approval and default probabilities; applied
-  generalized linear models, Poisson regression, and logistic regression; performed model
-  selection using information criteria, conducted diagnostics, and generated predictive insights.
+&nbsp;&nbsp;Analyzed the SBA loan dataset to model loan approval and default probabilities; applied
+&nbsp;&nbsp;generalized linear models, Poisson regression, and logistic regression; performed model
+&nbsp;&nbsp;selection using information criteria, conducted diagnostics, and generated predictive insights.
   
 **Unsupervised Learning: Matrix completion**<br>
-  &nbsp;Keywords: comparison of several models, including KNN, user-based collaborative filtering, item-based collaborative filtering, SVD,      and KNN+SVD, to impute missing values in a rating matrix. 
+&nbsp;&nbsp;Keywords: comparison of several models, including KNN, user-based collaborative filtering, item-based collaborative &nbsp;&nbsp;filtering, SVD, and KNN+SVD, to impute missing values in a rating matrix. 
 
 # Teaching Experience
 
 **Lead Teaching Assitant**,  Department of Statistics, Fall 2025<br>
-  &nbsp;Lead teaching assistant for STAT 400, wrote hw problems, discussion problems, discussion notes for the rest teaching assistants, lead discussion and office hours  
+&nbsp;&nbsp;Lead teaching assistant for STAT 400, wrote hw problems, discussion problems, discussion notes for the rest teaching &nbsp;&nbsp;assistants, lead discussion and office hours  
 **Teaching Assistant**, Department of Statistics, Fall 2022 - Spring 2025<br>
-  &nbsp;Led discussion sessions, held office hours, graded homework, and proctored exams
-  for STAT 400 (Statistics and Probability I), STAT 385 (Statistics Programming
-  Methods), and STAT 425 (Statistical Modeling I).
+&nbsp;&nbsp;Led discussion sessions, held office hours, graded homework, and proctored exams
+&nbsp;&nbsp;for STAT 400 (Statistics and Probability I), STAT 385 (Statistics Programming
+&nbsp;&nbsp;Methods), and STAT 425 (Statistical Modeling I).
 
 # Skills
 
