@@ -9,7 +9,7 @@ time series forecasting, statistical modeling, and their applications in financi
 management, and investment strategies.
 
 # Education
-<hr style="margin-top:0.1em; margin-bottom:1em;">
+<hr style="margin-top:-1em; margin-bottom:1em;">
 **Ph.D.**, in Statistics &nbsp;&nbsp;&nbsp; *2022 – 2027*<br>
 University of Illinois at Urbana-Champaign, USA
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
@@ -19,7 +19,7 @@ GPA: 3.67/4.00
 **M.S.**, in Statistics &nbsp;&nbsp;&nbsp; *2020 – 2022*<br>
 Aristotle University of Thessaloniki, Greece
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
-GPA: 9.45/10.00
+GPA: 9.55/10.00<br>
 Thesis: *“Functional Delta Method and its Application”*
 </span>
 
@@ -30,7 +30,7 @@ GPA: 8.06/10.00
 </span>
 
 # Projects
-<hr style="margin-top:0.2em; margin-bottom:1em;">
+<hr style="margin-top:-1em; margin-bottom:1em;">
 
 **Post shock forecasting of seasonal time series** (ongoing)
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
@@ -52,7 +52,7 @@ Applied and compared several models—including KNN, user-based and item-based c
 </span>
 
 # Teaching Experience
----
+<hr style="margin-top:-1em; margin-bottom:1em;">
 
 **Lead Teaching Assistant**, Department of Statistics, Fall 2025
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
@@ -65,7 +65,7 @@ Led discussion sessions, held office hours, graded homework and exams for STAT 4
 </span>
 
 # Skills
----
+<hr style="margin-top:-1em; margin-bottom:1em;">
 
 **Programming / Tools:** R, Markdown, Git, LaTeX, Excel<br>
 **Methods / Techniques:** Statistical Modeling and Generalized Linear Models, Machine Learning and Classification, Data Analysis and Visualization, Time Series Analysis and Forecasting, Financial Modeling / Options Pricing<br>
