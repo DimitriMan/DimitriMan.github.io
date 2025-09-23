@@ -12,4 +12,4 @@ Currently, I am working on post-shock forecasting of seasonal time series, using
 
 Collection of academic projects completed as part of graduate coursework in statistics, data science, and finance. Projects include applications of statistical modeling, machine learning, time series forecasting, predictive analytics on real-world datasets, and financial modeling with options pricing.
 
-[View my projects](https://github.com/DimitriMan/academic-projects)
+[View my projects](projects.md)
