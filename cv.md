@@ -4,7 +4,7 @@ title: "Cv"
 
 # Research Interests
 <hr style="margin-top:-1em; margin-bottom:1em;">
-I am interested in predictive modeling, and quantitative research, with a focus on
+I am interested in predictive modeling and quantitative research, with a focus on
 time series forecasting, statistical modeling, and their applications in financial markets, risk
 management and investment strategies.
 
