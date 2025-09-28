@@ -29,7 +29,7 @@ Aristotle University of Thessaloniki, Greece
 GPA: 8.06/10.00
 </span>
 
-# Projects
+# Selected Projects
 <hr style="margin-top:-1em; margin-bottom:1em;">
 
 **Post shock forecasting of seasonal time series** (ongoing)
@@ -49,7 +49,7 @@ Applied and compared several models—including KNN, user-based and item-based c
 
 **Data-Driven Modeling of Multimodal Transportation Networks**
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
-Developed a data-driven application integrating Google Maps API and Kiwi API to collect and structure multimodal travel data. Designed pipelines for real-time data acquisition and preprocessing, and formulated algorithmic approaches to model and optimize routing across heterogeneous transportation networks.
+Developed a data-driven application integrating Google Maps API and Kiwi.com API to collect and structure multimodal travel data. Designed pipelines for real-time data acquisition and preprocessing, and formulated algorithmic approaches to model and optimize routing across heterogeneous transportation networks.
 </span>
 
 # Teaching Experience
@@ -68,6 +68,6 @@ Led discussion sessions, held office hours, graded homework and exams for STAT 4
 # Skills
 <hr style="margin-top:-1em; margin-bottom:1em;">
 
-**Programming / Tools:** R, Markdown, Git, LaTeX, Excel<br>
+**Programming / Tools:** R, RESTful APIs (Google Maps, Kiwi.com), Markdown, Git, LaTeX, Excel<br>
 **Methods / Techniques:** Statistical Modeling and Generalized Linear Models, Machine Learning and Classification, Data Analysis and Visualization, Time Series Analysis and Forecasting, Financial Modeling / Options Pricing<br>
 **Other Skills:** Communication, Team Leadership, Collaboration, Creativity, Problem-Solving, Organization and Time Management, Project Coordination
