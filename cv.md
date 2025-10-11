@@ -45,7 +45,7 @@ Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rate
   
 **Unsupervised Learning: Matrix completion**
 <span style="display:block; margin-left:2em; margin-top:0; margin-bottom:0;">
-Applied and compared several models—including KNN, user-based and item-based collaborative filtering, SVD, and KNN+SVD—to impute missing values in a rating matrix; evaluated model performance and generated insights on prediction accuracy.
+Applied and compared several models, including KNN, user-based and item-based collaborative filtering, SVD, and KNN+SVD, to impute missing values in a rating matrix; evaluated model performance and generated insights on prediction accuracy.
 </span>
 
 **Data-Driven Modeling of Multimodal Transportation Networks**
