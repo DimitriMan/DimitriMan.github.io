@@ -69,6 +69,6 @@ Led discussion sessions, held office hours, graded homework and exams for STAT 4
 # Skills
 <hr style="margin-top:-1em; margin-bottom:1em;">
 
-**Programming / Tools:** R, RESTful APIs (Google Maps, Kiwi.com), Markdown, Git, LaTeX, Excel<br>
+**Programming / Tools:** R, Python (NumPy, pandas), RESTful APIs (Google Maps, Kiwi.com), Markdown, Git, LaTeX, Excel<br>
 **Methods / Techniques:** Statistical Modeling and Generalized Linear Models, Machine Learning and Classification, Data Analysis and Visualization, Time Series Analysis and Forecasting, Financial Modeling / Options Pricing<br>
 **Other Skills:** Communication, Team Leadership, Collaboration, Creativity, Problem-Solving, Organization and Time Management, Project Coordination
