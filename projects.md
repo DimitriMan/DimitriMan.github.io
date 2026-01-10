@@ -5,7 +5,7 @@ title: Projects
 **Morgan Stanley Buffered PLUS contracts valuation** (FIN 512)<br>
 Priced Morgan Stanley’s Buffered PLUS structured product by modeling swap rates, futures prices, and zero-coupon bonds; implemented European option pricing and implied volatility estimation using the Black–Scholes framework; evaluated hedging strategies using delta and gamma (Greeks)<br>
 
-**Data-Driven Modeling of Multimodal Transportation Networks** (Personal Project)<br>
+**Data-driven modeling of multimodal transportation networks** (Personal Project)<br>
 Developed a data-driven application integrating Google Maps API and Kiwi.com API to collect and structure multimodal travel data. Designed pipelines for real-time data acquisition and preprocessing, formulated algorithmic approaches to model and optimize routing across heterogeneous transportation networks.<br>
 
 **Unsupervised Learning: Matrix completion** (STAT 542)<br>
